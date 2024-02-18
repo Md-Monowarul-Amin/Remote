@@ -19,4 +19,3 @@ remote1.switchON(tv2)
 
 # print(remote1.LastUsedDevice.getName())
 remote1.undo()
-
