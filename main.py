@@ -17,3 +17,6 @@ remote1.switchON(computerAdapter)
 tv2 = TV("TV-2")
 remote1.switchON(tv2)
 
+# print(remote1.LastUsedDevice.getName())
+remote1.undo()
+
