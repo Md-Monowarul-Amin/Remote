@@ -19,5 +19,7 @@ class IRemote(ABC):
     def switchON(self, device:IDevice):
         pass
 
-
+    @abstractmethod
+    def undo(self):
+        pass
 
