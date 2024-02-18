@@ -17,5 +17,4 @@ class IComputableDevice(ABC):
     @abstractmethod
     def turnOff(self):
         pass
-
-
+    

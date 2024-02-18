@@ -21,4 +21,3 @@ class Computer(IComputableDevice):
     def turnOn(self):
         # print("Computer turning ON.")
         self.state = DeviceState.ON
-

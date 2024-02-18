@@ -19,5 +19,3 @@ class TV(IDevice):
     def switchOFF(self):
         self.state = DeviceState.OFF
     
-    
-      
