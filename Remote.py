@@ -4,10 +4,6 @@ from TV import *
 from DeviceMenu import DeviceMenu
 from DeviceStateEnum import DeviceState
 
-# tv = TV("Walton")
-
-# print(tv.get_name())
-
 
 class Remote(IRemote):
 
